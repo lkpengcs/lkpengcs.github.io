@@ -13,5 +13,7 @@ I received my B.Eng degree in computer science and engineering from [Southern Un
 
 My research focuses on medical image analysis, with a particular interest in foundational models, diffusion models, and multi-modal learning.
 
-News and Updates
-======
+**I am actively seeking internships and collaboration opportunities!.**
+
+<!-- News and Updates
+====== -->
