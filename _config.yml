@@ -12,7 +12,7 @@ title                    : "Linkai Peng"
 title_separator          : "-"
 name                     : &name "Linkai Peng"
 description              : &description "personal description"
-url                      : https://lkpeng.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lkpengcs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
