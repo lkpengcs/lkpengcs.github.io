@@ -1,13 +1,13 @@
 ---
-title: "Rethink Domain Generalization in MRI Segmentation"
+title: "VideoAds for Fast-Paced Video Understanding: Where Opensource Foundation Models Beat GPT-4o & Gemini-1.5 Pro"
 collection: publications
 category: conferences
-permalink: /publication/iccv2025-nnsam
+permalink: /publication/iccv2025-videoads
 # excerpt: 'MICCAI-AIPAD 2024'
 # date: 2024-10
 # venue: 'MICCAI-AIPAD 2024'
-# slidesurl: 'https://github.com/lkpengcs/SynTumorAnalyzer'
-# paperurl: 'https://arxiv.org/abs/2407.19284'
+slidesurl: 'https://videoadsbenchmark.netlify.app/'
+paperurl: 'https://arxiv.org/pdf/2504.09282'
 # citation: 
 # ```
 # @article{peng2024optimizing,
