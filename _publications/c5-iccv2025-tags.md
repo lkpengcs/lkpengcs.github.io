@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/iccv2025-tags
 # excerpt: 'MICCAI-AIPAD 2024'
 # date: 2024-10
-# venue: 'MICCAI-AIPAD 2024'
-# slidesurl: 'https://github.com/lkpengcs/SynTumorAnalyzer'
-# paperurl: 'https://arxiv.org/abs/2407.19284'
+venue: 'ICCV-APAH 2025'
+slidesurl: 'https://github.com/sirileeee/TAGS'
+paperurl: 'https://arxiv.org/abs/2505.17096'
 # citation: 
 # ```
 # @article{peng2024optimizing,
@@ -18,7 +18,7 @@ permalink: /publication/iccv2025-tags
 # }
 # ```
 ---
-<!-- 
-Pancreatic cancer remains one of the leading causes of cancerrelated mortality worldwide. Precise segmentation of pancreatic tumors from medical images is a bottleneck for effective clinical decision-making. However, achieving a high accuracy is often limited by the small size and availability of real patient data for training deep learning models. Recent approaches have employed synthetic data generation to augment training datasets. While promising, these methods may not yet meet the performance benchmarks required for real-world clinical use. This study critically evaluates the limitations of existing generative-AI based frameworks for pancreatic tumor segmentation. We conduct a series of experiments to investigate the impact of synthetic tumor size and boundary definition precision on model performance. Our findings demonstrate that: (1) strategically selecting a combination of synthetic tumor sizes is crucial for optimal segmentation outcomes, and (2) generating synthetic tumors with precise boundaries significantly improves model accuracy. These insights highlight the importance of utilizing refined synthetic data augmentation for enhancing the clinical utility of segmentation models in pancreatic cancer decision making including diagnosis, prognosis, and treatment plans.
 
-![aipad2024](/paper_figs/aipad2024.png) -->
+Foundation models (FMs) such as CLIP and SAM have recently shown great promise in image segmentation tasks, yet their adaptation to 3D medical imaging—particularly for pathology detection/segmentation—remains underexplored. A critical challenge arises from the domain gap between natural images and medical volumes: existing FMs, pre-trained on 2D data, struggle to capture 3D anatomical context, limiting their utility in clinical applications like tumor segmentation. To address this, we propose an adaptation framework called TAGS: Tumor Adaptive Guidance for SAM, which unlocks 2D FMs for 3D medical tasks through multi-prompt fusion. By preserving most of the pre-trained weights, our approach enhances SAM’s spatial feature extraction using CLIP’s semantic insights and anatomy-specific prompts. Extensive experiments on three open-source tumor segmentation datasets prove that our model surpasses the state-of-the-art medical image segmentation models (+46.88% over nnUNet), interactive segmentation frameworks, and other established medical FMs, including SAM-Med2D, SAM-Med3D, SegVol, Universal, 3D-Adapter, and SAM-B (at least +13% over them). This highlights the robustness and adaptability of our proposed framework across diverse medical segmentation tasks. Our code and model are available at: \url{https://github.com/sirileeee/TAGS}.
+
+<!-- ![aipad2024](/paper_figs/aipad2024.png) --> -->

@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/iccv2025-videoads
 # excerpt: 'MICCAI-AIPAD 2024'
 # date: 2024-10
-# venue: 'MICCAI-AIPAD 2024'
+venue: 'ICCV 2025'
 slidesurl: 'https://videoadsbenchmark.netlify.app/'
-paperurl: 'https://arxiv.org/pdf/2504.09282'
+paperurl: 'https://arxiv.org/abs/2504.09282'
 # citation: 
 # ```
 # @article{peng2024optimizing,
@@ -18,7 +18,7 @@ paperurl: 'https://arxiv.org/pdf/2504.09282'
 # }
 # ```
 ---
-<!-- 
-Pancreatic cancer remains one of the leading causes of cancerrelated mortality worldwide. Precise segmentation of pancreatic tumors from medical images is a bottleneck for effective clinical decision-making. However, achieving a high accuracy is often limited by the small size and availability of real patient data for training deep learning models. Recent approaches have employed synthetic data generation to augment training datasets. While promising, these methods may not yet meet the performance benchmarks required for real-world clinical use. This study critically evaluates the limitations of existing generative-AI based frameworks for pancreatic tumor segmentation. We conduct a series of experiments to investigate the impact of synthetic tumor size and boundary definition precision on model performance. Our findings demonstrate that: (1) strategically selecting a combination of synthetic tumor sizes is crucial for optimal segmentation outcomes, and (2) generating synthetic tumors with precise boundaries significantly improves model accuracy. These insights highlight the importance of utilizing refined synthetic data augmentation for enhancing the clinical utility of segmentation models in pancreatic cancer decision making including diagnosis, prognosis, and treatment plans.
 
-![aipad2024](/paper_figs/aipad2024.png) -->
+Advertisement videos serve as a rich and valuable source of purpose-driven information, encompassing high-quality visual, textual, and contextual cues designed to engage viewers. They are often more complex than general videos of similar duration due to their structured narratives and rapid scene transitions, posing significant challenges to multimodal large language models (MLLMs). In this work, we introduce VideoAds, the first dataset tailored for benchmarking the performance of MLLMs on advertisement videos. VideoAds comprises well-curated advertisement videos with complex temporal structures, accompanied by manually annotated diverse questions across three core tasks: visual finding, video summary, and visual reasoning. We propose a quantitative measure to compare VideoAds against existing benchmarks in terms of video complexity. Through extensive experiments, we find that Qwen2.5-VL-72B, an opensource MLLM, achieves 73.35% accuracy on VideoAds, outperforming GPT-4o (66.82%) and Gemini-1.5 Pro (69.66%); the two proprietary models especially fall behind the opensource model in video summarization and reasoning, but perform the best in visual finding. Notably, human experts easily achieve a remarkable accuracy of 94.27%. These results underscore the necessity of advancing MLLMs’ temporal modeling capabilities and highlight VideoAds as a potentially pivotal benchmark for future research in understanding video that requires high FPS sampling. The dataset and evaluation code will be publicly available at https://videoadsbenchmark.netlify.app.
+
+<!-- ![aipad2024](/paper_figs/aipad2024.png) -->
