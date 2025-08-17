@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/iccv2025-nnsam
 # excerpt: 'MICCAI-AIPAD 2024'
 # date: 2024-10
-venue: 'under review'
+venue: 'Under review'
 slidesurl: 'https://pancreasdg.netlify.app/'
 paperurl: 'https://arxiv.org/abs/2507.23110'
 # citation: 
