@@ -15,5 +15,10 @@ My research focuses on medical image analysis, with a particular interest in fou
 
 **I am actively seeking internships and collaboration opportunities!**
 
-<!-- News and Updates
-====== -->
+News and Updates
+======
+
+* **Jun 2026**: Started an AI/ML research internship at **Johnson & Johnson**.
+* **Jun 2026**: Our paper *Anatomy-Aware Prediction of Bronchoscopic Accessibility from 3D CT* is accepted at **MICCAI 2026**! [[Project Page]](https://nubagcilab.github.io/BronchoAccess/)
+* **Feb 2026**: *CrossPan*, a benchmark for cross-sequence pancreas MRI segmentation, is accepted at **MIDL 2026**! [[Project Page]](https://crosspan.netlify.app/)
+* **Oct 2025**: *TAGS*, a 2D-to-3D SAM adapter for tumor segmentation, is accepted at the **APAH Workshop @ ICCV 2025**.! [[Code]](https://github.com/sirileeee/TAGS)
