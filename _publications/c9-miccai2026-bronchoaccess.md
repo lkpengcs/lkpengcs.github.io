@@ -7,7 +7,7 @@ permalink: /publication/miccai2026-bronchoaccess
 # date: 2024-10
 venue: 'MICCAI 2026'
 slidesurl: 'https://nubagcilab.github.io/BronchoAccess/'
-paperurl: ''
+paperurl: 'https://arxiv.org/pdf/2609.37386'
 # citation: 
 # ```
 # @article{peng2024optimizing,
