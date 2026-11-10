@@ -22,4 +22,4 @@ News and Updates
 * **Jun 2026**: Our paper *Anatomy-Aware Prediction of Bronchoscopic Accessibility from 3D CT* is accepted at **MICCAI 2026**! [[Project Page]](https://nubagcilab.github.io/BronchoAccess/)
 * **Feb 2026**: *CrossPan*, a benchmark for cross-sequence pancreas MRI segmentation, is accepted at **MIDL 2026**! [[Project Page]](https://crosspan.netlify.app/)
 * **Oct 2025**: *TAGS*, a 2D-to-3D SAM adapter for tumor segmentation, is accepted at the **APAH Workshop @ ICCV 2025**! [[Project Page]](https://github.com/sirileeee/TAGS)
-* **Oct 2025**: I co-authored *VideoAds*, an **ICCV 2025** paper introducing a benchmark for evaluating multimodal models on fast-paced advertisement videos. [Project Page](https://videoadsbenchmark.netlify.app/)
+* **Oct 2025**: I co-authored *VideoAds*, an **ICCV 2025** paper introducing a benchmark for evaluating multimodal models on fast-paced advertisement videos. [[Project Page]](https://videoadsbenchmark.netlify.app/)
